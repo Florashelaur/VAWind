@@ -1,11 +1,5 @@
 # VAWind
 
-Official implementation of **VAWind: A Variable-Aware Framework for Wind Speed
-Forecasting with Explicit Noise Modeling**.
-
-This release includes the three InitPredictors used in the main experiments:
-`LSTM`, `TCN`, and `CNN_LSTM`.
-
 ## Repository structure
 
 ```text
