@@ -40,7 +40,6 @@ python run.py \
   --target wind_speed_10m \
   --pred_len 12 \
   --use_noise 1
-```M
 ```
 
 Available horizons are 3, 6, 9, 12 
